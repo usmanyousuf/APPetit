@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918720244101",
+    "project_id": "appetit-569f7",
+    "storage_bucket": "appetit-569f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918720244101:android:68c4c97694a1a9779a3cec",
+        "android_client_info": {
+          "package_name": "com.santi.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918720244101-vikt3rkg079gam4s58mc1ilfbavji3l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgl3rDMJ4sJgx0N7WgrTP0FqNVjW_k00k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918720244101-vikt3rkg079gam4s58mc1ilfbavji3l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

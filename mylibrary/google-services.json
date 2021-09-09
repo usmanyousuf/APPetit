@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "286019715392",
+    "project_id": "appetite-f31ee",
+    "storage_bucket": "appetite-f31ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286019715392:android:0912417f1496e175bfbaa5",
+        "android_client_info": {
+          "package_name": "com.santi.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6n5KH-KNDDUGVzP09dr4vtqhIw8cjBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286019715392:android:9ac3e3b5d716fb26bfbaa5",
+        "android_client_info": {
+          "package_name": "com.santi.mylibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6n5KH-KNDDUGVzP09dr4vtqhIw8cjBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286019715392:android:226d1438ce7b4df5bfbaa5",
+        "android_client_info": {
+          "package_name": "com.santi.restaurateur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6n5KH-KNDDUGVzP09dr4vtqhIw8cjBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286019715392:android:a49bdeded6f3f246bfbaa5",
+        "android_client_info": {
+          "package_name": "com.santi.riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6n5KH-KNDDUGVzP09dr4vtqhIw8cjBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286019715392-e08h5426b91g95vc46queu5h9a1q3un5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
